@@ -1,6 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "subsistema1.crm",
+        "strategy",
         "singleton",
-        "strategy"
+        "facade",
+        "subsistema2.cep"
     ]
 }
