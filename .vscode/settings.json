@@ -1,9 +1,12 @@
 {
     "java.project.sourcePaths": [
+        "subsistema2.cep",
         "subsistema1.crm",
         "strategy",
-        "singleton",
-        "facade",
-        "subsistema2.cep"
+        "lab-padroes-design/subsistema2.cep",
+        "lab-padroes-design/subsistema1.crm",
+        "lab-padroes-design/singleton",
+        "lab-padroes-design/facade",
+        "lab-padroes-projeto-spring"
     ]
 }
